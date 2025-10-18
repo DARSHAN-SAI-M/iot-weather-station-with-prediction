@@ -16,7 +16,7 @@ A real-time IoT weather monitoring system built with ESP32, featuring machine le
 
 
 ## ✨ Features
-![Uploading WhatsApp Image 2025-10-18 at 20.02.25_7b857c9a.jpg…]()
+
 
 ### Hardware & Sensors
 - 🌡️ **Real-time Weather Monitoring** - Temperature, Pressure, Humidity, Altitude, Light intensity
