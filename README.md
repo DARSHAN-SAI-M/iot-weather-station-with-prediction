@@ -185,7 +185,7 @@ ESP32 Sensors → WebSocket → Python Server → ML Model → Web Dashboard
 
 ```
 iot-weather-station-ml/
-├── Basic_Enginearing_Project.ino    # ESP32 Arduino code
+├── weather_Staion.ino    # ESP32 Arduino code
 ├── server.py                         # Python server with Flask + WebSocket
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # This file
