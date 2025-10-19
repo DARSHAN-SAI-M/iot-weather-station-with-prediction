@@ -127,7 +127,7 @@ pip install -r requirements.txt
 
 #### 3. Configure ESP32
 
-Open `Basic_Enginearing_Project.ino` in Arduino IDE and update:
+Open `Weather_Station.ino` in Arduino IDE and update:
 
 ```cpp
 // WiFi credentials
