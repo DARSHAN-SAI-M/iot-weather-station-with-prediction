@@ -30,11 +30,11 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &I2C_OLED, OLED_RESET);
 Adafruit_BMP085 bmp;
 
 // WiFi credentials
-const char* ssid = "DARSHAN SAI's A26";
-const char* password = "sjjuxticiubihwr";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 // Python server details
-const char* ws_host = "172.24.165.190";
+const char* ws_host = "Server address";
 const uint16_t ws_port = 8765;
 
 WebSocketsClient webSocket;
